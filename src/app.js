@@ -26,3 +26,5 @@ console.log("</ul>")
 
  console.log(konutKredileri)
  // üç noktaya basıp add remote diyip git huba yükle
+
+ console.log("Değişiklik")
